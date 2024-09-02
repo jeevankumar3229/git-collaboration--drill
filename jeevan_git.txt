@@ -1,0 +1,12 @@
+git init -> Initializes a new Git repository in the current directory.
+git config -> Configures Git settings, such as user name and email.
+git clone -> Clones a repository from a remote source to your local machine.
+git add -> Adds files to the staging area, preparing them for a commit.
+git commit -> Records the changes made to the files in the repository.
+git status -> Shows the current status of the working directory and staging area.
+git log -> Displays a log of all commits made to the repository.
+git branch ->Lists all branches or creates a new branch.
+git checkout ->Switches between branches
+git merge -> Merges changes from one branch into another.
+git push ->Pushes local commits to a remote repository.
+git diff ->Shows the differences between commits.
