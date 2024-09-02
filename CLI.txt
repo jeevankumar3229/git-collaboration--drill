@@ -1,0 +1,17 @@
+cd => changes the current working directory.
+ls => listing files
+cat => display the content of file
+mkdir => for creating new directory
+touch => to create new file
+mv => for moving files
+cat => displays the content of files.
+nano => Opens the Nano text editor for file editing directly from the terminal.
+chmod => Changes file or directory permissions.
+grep => Searches for patterns within files or output.
+ps => Displays currently running processes.
+find => Searches for files and directories based on criteria like name
+head => display the first part of a file 
+tail => display the last part of a file 
+pkill => to terminate process
+netstat => provides information about current network activity and listening ports.
+which => locate the executable file
