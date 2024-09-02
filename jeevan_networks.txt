@@ -1,0 +1,5 @@
+ifconfig -> display network interface parameters, such as IP addresses and network settings
+ping -> Tests connectivity between the local machine and a remote host.
+hostname -> display hostname
+ssh -> to securely connect to a remote machine over the SSH
+host -> to perform DNS lookups, translating domain names into IP addresses
